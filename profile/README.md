@@ -30,4 +30,4 @@ You can use the [Discussions page](https://github.com/orgs/hard-brain/discussion
 
 ## Licensing  
 
-All Hard Brain repositories include a copy of the license MIT License and licensed under those terms, unless stated otherwise.
+All Hard Brain repositories include a copy of the MIT License and licensed under those terms, unless stated otherwise.
