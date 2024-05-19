@@ -28,4 +28,6 @@ As of May 2024, Hard Brain is still in early development, so if you are interest
 
 You can use the [Discussions page](https://github.com/orgs/hard-brain/discussions) for reporting bugs or giving feedback.  
 
-Source code is not ready for public release, but may happen in the future.
+## Licensing  
+
+All Hard Brain repositories include a copy of the license MIT License and licensed under those terms, unless stated otherwise.
